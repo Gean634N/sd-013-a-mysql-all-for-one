@@ -1,2 +1,2 @@
-SELECT * FROM products LIMIT 9 OFFSET 4;
+SELECT * FROM products LIMIT 10 OFFSET 3;
 
