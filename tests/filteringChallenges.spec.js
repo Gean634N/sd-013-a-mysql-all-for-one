@@ -1,6 +1,7 @@
 const { readFileSync } = require('fs');
 const { Sequelize } = require('sequelize');
 const Importer = require('mysql-import');
+//VAMO QUE VAMO
 
 describe('Desafios sobre filtragem de dados', () => {
   let sequelize;
