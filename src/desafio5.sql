@@ -1,0 +1,2 @@
+SELECT * FROM products LIMIT 9 OFFSET 4;
+
